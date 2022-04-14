@@ -16,7 +16,7 @@
 }
 
 #board {
-    background-image: url("../board.png");
+    background-image: url("./board.png");
     height: 400px;
     width: 400px;
     background-repeat: no-repeat;
